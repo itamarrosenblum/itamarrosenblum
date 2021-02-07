@@ -31,5 +31,5 @@ When I’m not creating pixels, you’ll find me reading books, workout, or watc
 
 ### :speech_balloon: Get in touch
 
-- [Twitter](https://twitter.com/ItamarRosenblum)
-- [Linkedin](https://linkedin.com/in/itamarRosenblum)
+- Twitter: https://twitter.com/ItamarRosenblum
+- Linkedin: https://linkedin.com/in/itamarRosenblum
