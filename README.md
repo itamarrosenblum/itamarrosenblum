@@ -24,3 +24,6 @@ Love to share my skills and knowledge and to learn from others as well.
 I live and breathe web development and web design but find value in life beyond the screen.
 
 When I’m not creating pixels, you’ll find me reading books, workout, or watching documentary series.
+
+<a class="twitter-timeline" href="https://twitter.com/ItamarRosenblum" data-tweet-limit="NUMBER OF TWEETS" data-width="399" ></a>
+<script async src="http://platform.twitter.com/widgets.js" charset="utf-8"></script>
