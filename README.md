@@ -25,5 +25,5 @@ I live and breathe web development and web design but find value in life beyond 
 
 When I’m not creating pixels, you’ll find me reading books, workout, or watching documentary series.
 
-<a class="twitter-timeline" href="https://twitter.com/ItamarRosenblum" data-tweet-limit="NUMBER OF TWEETS" data-width="399" ></a>
+<a class="twitter-timeline" href="https://twitter.com/ItamarRosenblum" data-tweet-limit="1" data-width="399" ></a>
 <script async src="http://platform.twitter.com/widgets.js" charset="utf-8"></script>
