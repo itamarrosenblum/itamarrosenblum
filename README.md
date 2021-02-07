@@ -27,7 +27,7 @@ I live and breathe web development and web design but find value in life beyond 
 
 When I’m not creating pixels, you’ll find me reading books, workout, or watching documentary series.
 
-## I'm also on
+### I'm also on
 - <a href="https://codepen.io/itamarrosenblum">CodePen</a>
 - <a href="https://www.linkedin.com/in/itamarrosenblum/">Linkedin</a>
 - <a href="https://twitter.com/ItamarRosenblum">Twitter</a>
