@@ -27,6 +27,8 @@ I live and breathe web development and web design but find value in life beyond 
 
 When I’m not creating pixels, you’ll find me reading books, workout, or watching documentary series.
 
+> "stay hungry, stay foolish" - Steve Jobs
+
 ### :speech_balloon: Get in touch
 
 - Twitter: https://twitter.com/ItamarRosenblum
