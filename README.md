@@ -30,4 +30,4 @@ When I’m not creating pixels, you’ll find me reading books, workout, or watc
 <h3>💬 Get in touch</h3>
 
 - Twitter: https://twitter.com/ItamarRosenblum
-- Linkedin: https://linkedin.com/in/itamarrosenblum
+- Linkedin: https://linkedin.com/in/itamarRosenblum
