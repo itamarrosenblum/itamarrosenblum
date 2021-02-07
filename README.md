@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Particularly passionate about web development and design systems.<br>
+<p style="color:red">Particularly passionate about web development and design systems.<br>
 Well-organized person, with high attention to detail.<br>
 Love to share my skills and knowledge and to learn from others as well.<br>
 I live and breathe web development and web design but find value in life beyond the screen.<br>
-When I’m not creating pixels, you’ll find me reading books, workout, or watching documentary series.
+When I’m not creating pixels, you’ll find me reading books, workout, or watching documentary series.</p>
